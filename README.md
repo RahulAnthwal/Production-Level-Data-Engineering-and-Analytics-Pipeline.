@@ -6,8 +6,8 @@ Overview
 
 Key Features
 
-Automated Ingestion: Python scripts to handle database connectivity and data loading.
+- Automated Ingestion: Python scripts to handle database connectivity and data loading.
 
-Performance Metrics: Detailed analysis of lead times, defect rates, and vendor sales summaries.
+- Performance Metrics: Detailed analysis of lead times, defect rates, and vendor sales summaries.
 
-Interactive BI: A professional Power BI dashboard providing real-time visibility into supplier health.
+- Interactive BI: A professional Power BI dashboard providing real-time visibility into supplier health.

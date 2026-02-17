@@ -1,4 +1,4 @@
-# Use this script to save csv files into database with their filename as tablename
+
 import pandas as pd
 import os
 from sqlalchemy import create_engine

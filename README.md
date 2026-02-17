@@ -1,4 +1,4 @@
-# 🚚 End-to-End Vendor Performance Analysis & Pipeline
+ 🚚 End-to-End Vendor Performance Analysis & Pipeline
 #Overview
 "In complex supply chains, vendor reliability is the difference between profit and loss. This project delivers an automated ecosystem that tracks, analyzes, and visualizes vendor performance to mitigate risk and optimize procurement."
 
